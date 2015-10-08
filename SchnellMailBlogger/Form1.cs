@@ -54,7 +54,7 @@ namespace SchnellMailBlogger
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://prostatitis-cpps-heilen.blogspot.de/"); //Replace it with your blog
+            System.Diagnostics.Process.Start("Replace it with your blog"); //
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
