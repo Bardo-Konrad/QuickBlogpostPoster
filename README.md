@@ -5,4 +5,4 @@ Enter your details in the source code and let the software send a mail to blogge
 
 USAGE
 
-Enter your post in the big field. Enter the title in the smaller field. Press enter in the smaller field to send the post.
+Enter your post in the big field. Enter the title in the smaller field. Press enter in the smaller field to send the post. Click the link to go to your blog to verify.
