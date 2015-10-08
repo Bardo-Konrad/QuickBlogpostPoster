@@ -1,7 +1,7 @@
 # QuickBlogpostPoster
-Helps you to quickly create a post without the hassle of logins and changing web site surroundings.
+Helps you to quickly create a blog post in blogger.com / Blogpost without the hassle of logins and changing web site surroundings.
 
-Enter your details in the source code and let the software send a mail to blogger.com for it to publish your post.
+Enter your details in the source code and let the software send a mail to blogger.com for it to publish your post. This needs to be enabled first in blogger's settings.
 
 USAGE
 
